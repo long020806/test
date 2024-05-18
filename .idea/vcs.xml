@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/actor_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/complex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imgtool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/integration_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/into_map_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/macro-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/macro_map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minigrep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myexponent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rudis_sync" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-mod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust_thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serde_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/super_player" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmp_file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todolist_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/word-counter" vcs="Git" />
+  </component>
+</project>
