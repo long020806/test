@@ -1,0 +1,10 @@
+D:\code\end\rust\rust_profission\linksnap\target\debug\deps\libquote-7cade32caebd203c.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\ext.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\to_tokens.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\runtime.rs
+
+D:\code\end\rust\rust_profission\linksnap\target\debug\deps\libquote-7cade32caebd203c.rlib: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\ext.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\to_tokens.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\runtime.rs
+
+D:\code\end\rust\rust_profission\linksnap\target\debug\deps\quote-7cade32caebd203c.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\ext.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\to_tokens.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\runtime.rs
+
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\ext.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\to_tokens.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\quote-0.6.13\src\runtime.rs:

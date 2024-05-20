@@ -1,0 +1,10 @@
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\libautocfg-ada1ca837f4d17f1.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\version.rs
+
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\libautocfg-ada1ca837f4d17f1.rlib: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\version.rs
+
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\autocfg-ada1ca837f4d17f1.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\rustc.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\version.rs
+
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\rustc.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\autocfg-1.3.0\src\version.rs:

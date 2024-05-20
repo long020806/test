@@ -1,0 +1,1 @@
+D:\code\end\rust\rust_profission\hyperurl\target\debug\hyperurl.exe: D:\code\end\rust\rust_profission\hyperurl\src\main.rs D:\code\end\rust\rust_profission\hyperurl\src\service.rs D:\code\end\rust\rust_profission\hyperurl\src\shortener.rs

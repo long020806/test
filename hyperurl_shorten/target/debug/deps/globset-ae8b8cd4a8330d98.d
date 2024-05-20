@@ -1,0 +1,10 @@
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\libglobset-ae8b8cd4a8330d98.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\fnv.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\glob.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\pathutil.rs
+
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\libglobset-ae8b8cd4a8330d98.rlib: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\fnv.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\glob.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\pathutil.rs
+
+D:\code\end\rust\rust_profission\hyperurl_shorten\target\debug\deps\globset-ae8b8cd4a8330d98.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\fnv.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\glob.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\pathutil.rs
+
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\fnv.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\glob.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\globset-0.4.14\src\pathutil.rs:
