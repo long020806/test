@@ -1,8 +1,0 @@
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\libunicase-fcdb654edea7b978.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\ascii.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\mod.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\map.rs
-
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\unicase-fcdb654edea7b978.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\ascii.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\mod.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\map.rs
-
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\lib.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\ascii.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\mod.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\unicase-2.7.0\src\unicode\map.rs:

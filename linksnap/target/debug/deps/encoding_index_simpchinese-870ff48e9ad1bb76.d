@@ -1,7 +1,0 @@
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\libencoding_index_simpchinese-870ff48e9ad1bb76.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs
-
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\encoding_index_simpchinese-870ff48e9ad1bb76.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs
-
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\lib.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\encoding-index-simpchinese-1.20141219.5\gb18030_ranges.rs:

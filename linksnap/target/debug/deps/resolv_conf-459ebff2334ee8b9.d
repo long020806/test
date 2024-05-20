@@ -1,8 +1,0 @@
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\libresolv_conf-459ebff2334ee8b9.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src/lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\grammar.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\ip.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\config.rs
-
-D:\code\end\rust\rust_profission\linksnap\target\debug\deps\resolv_conf-459ebff2334ee8b9.d: C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src/lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\grammar.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\ip.rs C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\config.rs
-
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src/lib.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\grammar.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\ip.rs:
-C:\Users\Administrator\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\resolv-conf-0.6.3\src\config.rs:
